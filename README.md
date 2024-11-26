@@ -64,5 +64,7 @@ The **Apple Pen-Testing Framework** is actively evolving and will continue to be
 2. **Tools Beyond Homebrew**:
    - While the framework currently relies on Homebrew for package management, future releases will **expand beyond Homebrew** to include **custom installations** of specialized tools that are not available in the Homebrew repository. This will allow users to install cutting-edge tools that are often used in more targeted, niche security testing scenarios.
    - These tools will be provided either through custom scripts or external repositories to ensure they are kept up-to-date and secure.
- 
-  
+
+### Downloads:
+
+![APTF Download](https://github.com/d6fault/APTF/releases/download/Alpha/APTF.sh)
