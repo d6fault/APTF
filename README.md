@@ -1,3 +1,5 @@
+https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/d9622b04-6ae7-49f8-a597-8a2bc34aea96/d25etp6-cad60eaa-9d5f-4954-981f-d13ac9b996a6.png
+
 
 ### Apple Pen-Testing Framework (APTF)
 
@@ -34,28 +36,10 @@ These tools are all available in the **Homebrew repository**, so you can be sure
 - **Wide Tool Selection**: Install a curated set of top tools, or go for the full range of recommended tools for a more comprehensive setup.
 - **macOS Compatibility**: Designed specifically for macOS, so everything is optimized for the platform.
 
-### Conclusion:
-The **Apple Pen-Testing Framework** is a **complete and ready-to-use tool** that leverages **Homebrew** to install a range of pentesting tools, helping security professionals quickly set up a powerful testing environment on macOS. Since all the tools are sourced from the official Homebrew repository, you get stable, up-to-date versions of each tool, making it easy to jump straight into your pentesting work without worrying about setup.
-
-
 ---
 
-Minimum macOS Version:
+# Minimum macOS Version:
 
-Got it! Here's the updated section with the reasoning that some packages don't support older versions of macOS:
-
----
-
-### Apple Pen-Testing Framework
-
-The **Apple Pen-Testing Framework** is a fully functional tool designed to help **ethical hackers**, **penetration testers**, and **security professionals** quickly set up their macOS environment for penetration testing. This framework automates the installation of essential pentesting tools available directly from the **Homebrew repository**, streamlining the process of setting up a powerful testing environment.
-
-### Key Features:
-- **Homebrew-Powered Installations**: All tools are pulled from the **Homebrew repository**, ensuring compatibility and easy installation. Homebrew is a popular package manager for macOS that simplifies the installation of software packages.
-- **Tool Sets**: The script allows you to install:
-  - A **core set of top 10 pentesting tools** (e.g., Nmap, Metasploit, Burp Suite).
-  - A **more comprehensive set of recommended pentesting tools** for advanced testing.
-- **Interactive Menu**: A user-friendly menu lets you choose which tools to install and guides you through the installation process with clear feedback on success or failure.
 
 ### macOS Version capabilities:
 To run the **Apple Pen-Testing Framework**, your macOS system needs to meet the following minimum requirements:
