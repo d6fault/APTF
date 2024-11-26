@@ -64,7 +64,7 @@ install_top_tools() {
     
     brew install feroxbuster
 
-     if ! command -v nmap 2>&1 >/dev/null
+     if ! command -v feroxbuster 2>&1 >/dev/null
     then
         echo "Feroxbuster failed to install :( "
     else
