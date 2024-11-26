@@ -68,3 +68,9 @@ The **Apple Pen-Testing Framework** is actively evolving and will continue to be
 ### Downloads:
 
 ![APTF Download](https://github.com/d6fault/APTF/releases/download/Alpha/APTF.sh)
+
+
+### Can i use this on IPhones/IPads?
+
+
+Yes, you can technically use this on iPhones and iPads with the **UTM SE** app, which is available on the App Store [here](https://apps.apple.com/us/app/utm-se-retro-pc-emulator/id1564628856). However, to get optimal performance, you'll need to use a Debian CLI ISO. Keep in mind that as of November 2024, there isn't yet a separate version of the script specifically designed for iPhones and iPads. You can still use the current version, but be aware that the available tools may be limited.
